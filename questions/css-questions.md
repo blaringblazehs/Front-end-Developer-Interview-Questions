@@ -31,3 +31,34 @@
 * Can you explain the difference between coding a web site to be responsive versus using a mobile-first strategy?
 * Have you ever worked with retina graphics? If so, when and what techniques did you use?
 * Is there any reason you'd want to use `translate()` instead of *absolute positioning*, or vice-versa? And why?
+
+Top 5 Interview Question for CSS with possible answers/hints -
+* What is External Style Sheet? How would you link to it?
+External Style Sheet is the sheet which comprises of style information and can be connected with one or more HTML documents. With the help of External Style Sheet entire website can be formatted and styles just by editing one single file. The file is connected with HTML documents with the help of the LINK element which resides inside the HEAD element.
+
+* What are the advantages and disadvantages of using External Style Sheets?
+The advantages of External Style Sheets are as follows :
+
+With the help of External Style Sheets, the styles of numerous documents can be organized from one single file.
+In External Style Sheets, Classes can be made for use on numerous HTML element types in many forms of the site.
+In complex contexts, Methods like selector and grouping can be implemented to apply styles.
+The disadvantages of External Style Sheets are as follows :
+
+An extra download is essential to import style information for each file.
+The execution of the file may be deferred till the external style sheet is loaded.
+While implementing style sheets, we need to test Web pages with multiple browsers in order to check compatibility issues.
+
+* What are the advantages and disadvantages of Embedded Style Sheets?
+The advantages of Embedded Style Sheets are as follows :
+
+In Embedded Style Sheets, it is possible to generate classes for use on multiple tag types in the document.
+In Embedded Style Sheets, In comparison to In External Style Sheets, no extra download is compulsory to import the information.
+The disadvantages of Embedded Style Sheets are as follows :
+
+In Embedded Style Sheets, Controlling the styles for multiple files from one file is not possible.
+
+* What is CSS selector?
+A CSS selector is the portion of a CSS set that chooses the content that requires to style. It is also referred to as a connection between the stylesheet and HTML files. CSS selectors permits you to choice and operate HTML elements. CSS selectors are used to “select” (or find) HTML elements created on their id, class, type etc.
+
+* What is Tweening?
+Also Known as in-betweening, it is the process of creating intermediary frames among two images to provide the appearance that the first image develops efficiently into the second image. It is a key process which is used in all types of animations. Refined animation software permits you to find particular objects in an image and describe how they will be able to move and change throughout the tweening process.
